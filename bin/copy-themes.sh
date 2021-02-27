@@ -3,6 +3,7 @@ themes=(
 	attila
 	london
 	massively
+	caffeine-theme
 	bleak
 	the-shell
 	vapor
